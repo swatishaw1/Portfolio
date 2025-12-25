@@ -1,73 +1,89 @@
-# Welcome to your Lovable project
+Swati Shaw – Developer Portfolio
 
-## Project info
+This repository contains my personal developer portfolio showcasing real, hands-on projects built using modern web technologies and backend systems. The focus is on practical implementation, clean architecture, and end-to-end workflows.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+👩‍💻 About Me
 
-## How can I edit this code?
+I’m a Computer Science undergraduate with a strong foundation in programming and core CS subjects. I focus on learning by building real projects, especially in full-stack development and AI-powered applications.
 
-There are several ways of editing your application.
+Languages: C, Java, Python
 
-**Use Lovable**
+Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Backend: Spring Boot, REST APIs, JPA, Hibernate
 
-Changes made via Lovable will be committed automatically to this repo.
+Databases: MySQL, PostgreSQL
 
-**Use your preferred IDE**
+🚀 Projects
+🔹 DropBG – Background Removal Web Application
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+A full-stack application that allows users to upload images and remove backgrounds efficiently.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Key Features:
 
-Follow these steps:
+React.js frontend for image upload and result preview
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Spring Boot backend with REST APIs
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Secure image handling and request flow
 
-# Step 3: Install the necessary dependencies.
-npm i
+Integration with external background removal service
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Clear frontend → backend → API → response pipeline
 
-**Edit a file directly in GitHub**
+Tech Stack:
+React.js, Spring Boot, REST APIs
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+🔗 GitHub: [Add repository link]
 
-**Use GitHub Codespaces**
+🔹 EmailWriterAI – Gmail Chrome Extension
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+A Chrome Extension integrated directly into Gmail for AI-powered email drafting.
 
-## What technologies are used for this project?
+Key Features:
 
-This project is built with:
+One-click professional email generation
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Tone customization using AI (Gemini API)
 
-## How can I deploy this project?
+Gmail DOM integration using MutationObserver
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+Secure backend API handling
 
-## Can I connect a custom domain to my Lovable project?
+Seamless user experience inside Gmail
 
-Yes, you can!
+Tech Stack:
+JavaScript, React.js, Spring Boot, Chrome Extensions
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+🔗 GitHub: [Add repository link]
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+🛠 Skills
+
+Programming: C, Java, Python
+
+Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS
+
+Backend: Spring Boot, REST APIs, JPA, Hibernate
+
+Database: MySQL, PostgreSQL
+
+Tools: Git, GitHub, Postman, IntelliJ, VS Code
+
+📚 Core Computer Science Knowledge
+
+Data Structures and Algorithms
+
+Database Management Systems
+
+Operating Systems
+
+Computer Networks
+
+📬 Contact
+
+GitHub: https://github.com/swatishaw1
+Linkedin: https://www.linkedin.com/in/swati-shaw-178207279/
+Email: swatishaw104@gmail.com
+LinkedIn: [Add LinkedIn URL]
+
+Email: [Add Email]
